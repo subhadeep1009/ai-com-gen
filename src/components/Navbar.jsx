@@ -25,7 +25,7 @@ const Navbar = ({
       }`}
     >
       <div className="logo">
-        <h3 className="sp-text text-[25px]">GenUI</h3>
+        <h3 className="sp-text text-[25px]">GenieUI</h3>
       </div>
 
       <div className="icons flex items-center gap-[15px]">
